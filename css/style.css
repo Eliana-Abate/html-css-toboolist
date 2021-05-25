@@ -28,3 +28,12 @@ h1 {
     height: 100%;
     vertical-align: middle;
 }
+
+
+/*STILE MAIN*/
+.container {
+    width: 80%;
+    background-color: white;
+    margin-top: 50px;
+    padding: 10px 50px;
+}
