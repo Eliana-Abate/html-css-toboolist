@@ -3,3 +3,19 @@
     margin: 0 auto;
     padding: 0 auto;
 }
+
+/*STILE BODY*/
+body {
+    background-color: #f6f8f9;
+}
+
+/*STILE HEADER*/
+.header {
+    background-color: white;  
+}
+
+.h1 {
+    color: black;
+    display: inline-block;
+}
+
