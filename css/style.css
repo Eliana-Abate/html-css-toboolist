@@ -10,6 +10,8 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
+
+
 /*STILE HEADER*/
 header {
     background-color: white; 
@@ -50,6 +52,9 @@ h1 {
     border-bottom-right-radius: 4px;
 }
 
+
+
+/*STILE BUTTON AREA*/
 .button {
     width: 100px;
     height: 25px;
@@ -71,6 +76,9 @@ h1 {
     border-color: grey;
 }
 
+
+
+/*STILE LIST AREA*/
 .style1, .style2 {
     padding-top: 30px;
     color: #444851;
@@ -113,6 +121,8 @@ h1 {
     color: #eb5e58;
 }
 
+
+/*STILE LABEL*/
 .label {
     width: 70px;
     height: 25px;
