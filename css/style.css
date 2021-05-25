@@ -13,13 +13,18 @@ body {
 /*STILE HEADER*/
 header {
     background-color: white; 
-    line-height: 60px; 
-
+    height: 100px; 
+    padding: 10px 20px;
 }
 
 h1 {
     color: black;
     display: inline-block;
-    font-family: ;
+    font-size: 60px;
+    vertical-align: middle;
 }
 
+#logo-toboolist {
+    height: 100%;
+    vertical-align: middle;
+}
