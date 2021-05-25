@@ -40,28 +40,26 @@ h1 {
 }
 
 .button {
+    width: 100px;
     height: 25px;
     border-radius: 4px;
     text-align: center;
     font-size: 12px;
-    padding: 6px;  
+    padding: 5px;  
 }
 
 #button1 {
     background-color: #47adf1;
-    width: 70px;
+    border-color: #47adf1;
     color: white
-    
-
 }
 
 #button2 {
-    width: 80px;
     color: grey;
-    display: inline-block;
     background-color: white;
-    border-width: 1px;
     border-color: grey;
+}
 
-
+.style1 {
+    margin-top: 2px;
 }
